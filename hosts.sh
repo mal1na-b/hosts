@@ -36,3 +36,4 @@ do
     fi
 done < /etc/hosts
 
+echo "Adaugat de Ioana"
